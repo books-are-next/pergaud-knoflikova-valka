@@ -212,6 +212,6 @@ k boji zve pól-ní-cé hlas!_
 
 * * *
 
-_[1](./resources/undefined) Běda poraženým!_
+[1](./resources/undefined) Běda poraženým!
 
 </section>

@@ -273,6 +273,6 @@ Zanedlouho potom se vyprávělo po vesnici – a Janek s přáteli se tomu sm
 
 * * *
 
-_[2](./resources/undefined) Dokud nepoložím nepřátele tvé za podnoží tvých nohou._
+[2](./resources/undefined) Dokud nepoložím nepřátele tvé za podnoží tvých nohou.
 
 </section>
