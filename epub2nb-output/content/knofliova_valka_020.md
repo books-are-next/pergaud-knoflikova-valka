@@ -39,6 +39,10 @@ Prohlíželi pozorně bojiště. Žádný cár ležící na zemi nenaznačoval, 
 
 Velranští nastražili uši a skutečně uslyšeli, jak jejich vracející se nepřátelé zpívají z plných plic tento populární popěvek, méně revoluční než obvykle, zato ale zmíry přiléhavý:
 
+<div class="centered">
+
+<div class="verse">
+
 </section>
 
 <section>
@@ -54,11 +58,19 @@ rozbitejch až strach…_
 
 <section>
 
+</div>
+
+</div>
+
 Melhuba se nakláněl, kroutil, natahoval přes větve, aby viděl co nejdál, a vztekle ječel:
 
 „Oni je mají, mají tvoje gatě, štípli ti je, mizerové mizerní, zloději zatracení! Já je vidím, uvázali si je na klacek jako prapor, už budou brzo u lomu.“
 
 A posměšný popěvek dál doléhal k vyděšeným uším Prckovým a jeho tlupy.
+
+<div class="centered">
+
+<div class="verse">
 
 </section>
 
@@ -71,6 +83,10 @@ v mejch kalhotách…_
 </section>
 
 <section>
+
+</div>
+
+</div>
 
 Velitelovy zorničky se rozšířily, víčka zamžikala, oči se zakalily, Prcek zbledl:
 

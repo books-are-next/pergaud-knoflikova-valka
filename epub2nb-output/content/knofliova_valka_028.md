@@ -9,6 +9,10 @@ contentType: prose
 
 — CORNEILLE (Cid, dějství I, výstup V)
 
+</section>
+
+<section>
+
 Byl pátek ráno, chvíle, kdy se scházeli před vyučováním na školním dvoře.
 
 „Ale stejně jsme se včera prima pobavili!“

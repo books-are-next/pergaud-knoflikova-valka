@@ -9,6 +9,10 @@ contentType: prose
 
 — SÉB.-CH. LECONTE (Železná maska)
 
+</section>
+
+<section>
+
 Toho večera byli Loverňáci prodchnuti nepopsatelným nadšením: nic, žádná starost, žádná nepříjemná vyhlídka je nesrážela v rozletu. Sem tam nějaká ta rána klackem, to se dá snést, to jim bylo jedno, a pokud jde o kameny, měl člověk skoro vždycky čas – když je nevystřelil zrovna prak Melhubův – vyhnout se jejich dráze.
 
 V obličejích rozjasněných smíchem jim jiskrné oči jenjen hrály a zářily, kulaté červené tváře, zaoblené jako jablíčka, přímo křičely zdravím a radostí; paže, nohy, chodidla, ramena, ruce, krk, hlava, všecko v nich se hýbalo, třáslo se a poskakovalo. Dřeváky z topolového, osikového nebo ořechového dřeva je dnes věru netížily na nohou a už jejich výrazný klapot na utvrdlé cestě byl smělou hrozbou pro Velraňáky.

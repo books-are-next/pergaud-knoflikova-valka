@@ -10,6 +10,10 @@ contentType: prose
 
 — MALHERBE (Na smrt svého syna)
 
+</section>
+
+<section>
+
 „Co kdybysme si zašli k boudě?“ navrhl úskočně Souška v neděli po nešporách, když se všichni jeho druzi shromáždili u napajedla kolem generála.
 
 Pajda se zachvěl radostí a ani v duchu mu nenapadlo, že je tajně pozorován.

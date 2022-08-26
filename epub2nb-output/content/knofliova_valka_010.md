@@ -9,6 +9,10 @@ contentType: prose
 
 — VICTOR HUGO (Strašný rok)
 
+</section>
+
+<section>
+
 Věčná pravda, že neštěstí nikdy nechodí samo! A byl to Souška, který formuloval tento aforismus, jehož nebyl autorem.
 
 Když Janek, nadávající a proklínající ty velraňácké holomky, s vlasy, košilí i vším ostatním vlajícím ve větru, došel k ohybu cesty, vedoucí přes Hůrku, nenašel tam čekající druhy, ale starého Zefirina, bývalého vojáka z africké armády, kterému se běžněji říkalo Beduin a který ve vesnici zastával skromný úřad obecního hlídače, což bylo vidět i z jeho pečlivě vyleštěného žlutého odznaku, který svítil mezi záhyby jeho modré a vždycky čisté haleny.
@@ -55,6 +59,10 @@ Jak rozdílný byl tento návrat od pondělního! Pochmurná a tíživá tma je
 
 Nikdo nemluvil, aby nezhoršoval bolestné obavy přemoženého vůdce, a aby jejich trýzeň byla ještě větší, zaléhal k nim s jihozápadním větrem vítězný zpěv chlubných Velraňáků, kteří se vraceli do svých domovů:
 
+<div class="centered">
+
+<div class="verse">
+
 </section>
 
 <section>
@@ -65,6 +73,10 @@ naděje má i opora…_
 </section>
 
 <section>
+
+</div>
+
+</div>
 
 Ve Velranech totiž byli klerikálové a v Lovernu rudí.
 

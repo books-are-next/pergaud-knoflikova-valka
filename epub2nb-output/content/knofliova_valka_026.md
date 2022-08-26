@@ -10,6 +10,10 @@ contentType: prose
 
 — RONSARD (Ódy)
 
+</section>
+
+<section>
+
 Co se bude dít v Prckově seřezané, pohmožděné, obrané a zkormoucené tlupě? Janek na to koneckonců kašlal a jeho armáda také. Vítězství bylo jejich: nadělali šest zajatců. To tu ještě nebylo nikdy, kam paměť sahala. Nábožně uchovávané a dál předávané ústní podání o hrdinských válečnických činech nezaznamenávalo – Souška se za to zaručoval – nic o tak nesmírném počtu zajatců a o tak fantastickém výprasku. Janek se mohl považovat za největšího generála, který kdy velel lovernským válečným houfům, a jeho armáda za voj nejstatečnější a nejosvědčenější.
 
 Válečná kořist tu ležela na hromadě: fůra knoflíků a šňůrek, tkaniček, přezek a jiných nejroztodivnějších předmětů, protože bylo zabaveno všechno, co měli zajatci poschováváno po kapsách, s výjimkou kapesníků. Bylo tu vidět malé vepřové kůstky, uprostřed provrtané a navlečené na dvojité vlněné šňůrce, která se stáčela a roztáčela a uváděla tím kůstku do pohybu (této hračce se říkalo vrtítko), dál zde bylo vidět kuličky, nože, či přesněji řečeno něco jako čepele zasazené ve všelijakých podivných střenkách, bylo tu také pár klíčů na otvírání sardinek, olověná figurka kmotra Koliky v intimním podřepu a pár dutých pukaček na střílení hrachem. To všechno, nahromaděné bez ladu a skladu, mělo buď obohatit obecní poklad, nebo se mělo rozdělit losem.
@@ -278,6 +282,10 @@ Přiťukli si jablky, pozvedli číše, zahulákali řadu urážek na adresu nep
 
 A Hejl zanotoval:
 
+<div class="centered">
+
+<div class="verse">
+
 </section>
 
 <section>
@@ -289,11 +297,19 @@ jako kanonýr na velbloudu!_
 
 <section>
 
+</div>
+
+</div>
+
 „To je škoda, že není delší! Taková pěkná!“
 
 „Tak si zazpíváme všichni společně Plavovlásku. Tu umí každej. Pojďte! Jedna! Dvě!“
 
 A všecky ty mladistvé hlasy zahlaholily z plných plic tu starou píseň:
+
+<div class="centered">
+
+<div class="verse">
 
 </section>
 
@@ -320,7 +336,15 @@ snad ona lituje._
 
 <section>
 
+</div>
+
+</div>
+
 Když ji dozpívali, chtěli začít nějakou jinou, a tak zanotoval Cinkal:
+
+<div class="centered">
+
+<div class="verse">
 
 </section>
 
@@ -333,6 +357,10 @@ a bim a bum a ratata bum…_
 </section>
 
 <section>
+
+</div>
+
+</div>
 
 Ale pak ho nechali v půli cesty, protože teď, když se napili, potřebovali něco jiného, něco lepšího.
 
@@ -350,6 +378,10 @@ Je tam nějaký ohromný místo, ale já nevím, co to je, kam je nacpaná ta Ma
 
 Pak se ještě pokusili rozpomenout se na tu písničku, co zpívá Debíz, když se ožere:
 
+<div class="centered">
+
+<div class="verse">
+
 </section>
 
 <section>
@@ -360,7 +392,15 @@ _Cibulová polívka, to je bujón demokrata…_
 
 <section>
 
+</div>
+
+</div>
+
 Pak ještě horko těžko zahulákali popěvek pytláka Kinkina:
+
+<div class="centered">
+
+<div class="verse">
 
 </section>
 
@@ -374,6 +414,10 @@ opilcům je zaslíbenej._
 </section>
 
 <section>
+
+</div>
+
+</div>
 
 A pak, protože byli znaveni a sbor nějak selhával, nastalo krátké, užaslé ticho.
 

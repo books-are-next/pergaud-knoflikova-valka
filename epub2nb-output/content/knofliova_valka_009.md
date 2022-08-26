@@ -10,6 +10,10 @@ contentType: prose
 — JINDŘICH IV. (dopis panu de Batz, guvernérovi  
 města Euze v Armagnaku, 11. března 1586)
 
+</section>
+
+<section>
+
 Dny, které následovaly po tomto pamětihodném vítězství, byly klidnější. Velký Janek a jeho vojenský sbor, utvrzeni svým vítězstvím, udržovali svou převahu a ozbrojeni lískovými oštěpy, jež byly zaostřeny nožem a uhlazeny střípkem skla, a dřevěnými šavlemi s chránícím košem z drátu, opleteného cukršpagátem, podnikali strašlivé výpady, před kterými se Velraňáci třásli hrůzou a v krupobití kamení ustupovali až na svůj okraj lesa. Třasořitka zůstával opatrně v poslední řadě, nikdo nebyl zajat a nebyli ani žádní ranění.
 
 Bylo by to tak mohlo trvat dlouho; naneštěstí pro Lovernské však dopadlo sobotní dopolední vyučování neblaze. Velký Janek, který si přece jen vpravil do hlavy násobky metru i míry v něm obsažené, důvěřuje ujištění starého Simona, který prohlásil, že když je člověk zná pro jedny míry, zná je zároveň pro všechny druhy měr, nechtěl si dát říct, že kilolitr a myrialitr vůbec neexistují.

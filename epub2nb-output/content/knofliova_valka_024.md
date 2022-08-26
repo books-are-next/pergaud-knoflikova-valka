@@ -10,6 +10,10 @@ contentType: prose
 
 — CH. BAUDELAIRE (Smrt milenců)
 
+</section>
+
+<section>
+
 Gambettova a Hejlova nepřítomnost a tajuplná mlčenlivost generálova náramně rozdmychaly zvědavost lovernských válečníků, kteří jednotlivě přicházeli z toho nebo onoho důvodu za Jankem a pod pečetí tajemství od něho vyžadovali vysvětlení.
 
 Ale všecko, co se i ti nejoblíbenější dozvěděli, byla tato věta:

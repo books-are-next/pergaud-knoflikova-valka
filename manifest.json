@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pergaud-knoflikova-valka-d94d33f",
-  "revision": "d94d33f",
+  "identifier": "pergaud-knoflikova-valka-94b2895",
+  "revision": "94b2895",
   "readingOrder": [
     "promo.html",
     "knofliova_valka_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Aug 26 2022 15:20:41 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1661527241562
+    "date": "Fri Aug 26 2022 15:39:28 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661528368991
   },
   "documents": [
     {
@@ -103,9 +103,9 @@
     {
       "title": "2 Diplomatické napětí",
       "file": "knofliova_valka_007.html",
-      "words": 1849,
-      "chars": 11320,
-      "ideas": 86,
+      "words": 467,
+      "chars": 2873,
+      "ideas": 19,
       "role": "chapter",
       "order": 3,
       "prev": "knofliova_valka_006.html",
@@ -123,9 +123,9 @@
     {
       "title": "3 Velký den",
       "file": "knofliova_valka_008.html",
-      "words": 2147,
-      "chars": 13311,
-      "ideas": 103,
+      "words": 2144,
+      "chars": 13294,
+      "ideas": 102,
       "role": "chapter",
       "order": 4,
       "prev": "knofliova_valka_007.html",
@@ -163,9 +163,9 @@
     {
       "title": "5 Následky pohromy",
       "file": "knofliova_valka_010.html",
-      "words": 1795,
-      "chars": 11111,
-      "ideas": 69,
+      "words": 848,
+      "chars": 5363,
+      "ideas": 28,
       "role": "chapter",
       "order": 6,
       "prev": "knofliova_valka_009.html",
@@ -223,9 +223,9 @@
     {
       "title": "8 Spravedlivá odveta",
       "file": "knofliova_valka_013.html",
-      "words": 3602,
-      "chars": 21757,
-      "ideas": 132,
+      "words": 164,
+      "chars": 987,
+      "ideas": 9,
       "role": "chapter",
       "order": 9,
       "prev": "knofliova_valka_012.html",
@@ -303,9 +303,9 @@
     {
       "title": "3 Cinkalovo účetnictví",
       "file": "knofliova_valka_017.html",
-      "words": 1963,
-      "chars": 11747,
-      "ideas": 93,
+      "words": 446,
+      "chars": 2600,
+      "ideas": 31,
       "role": "chapter",
       "order": 13,
       "prev": "knofliova_valka_016.html",
@@ -363,9 +363,9 @@
     {
       "title": "6 Krutá hádanka",
       "file": "knofliova_valka_020.html",
-      "words": 2248,
-      "chars": 13438,
-      "ideas": 114,
+      "words": 379,
+      "chars": 2436,
+      "ideas": 24,
       "role": "chapter",
       "order": 16,
       "prev": "knofliova_valka_019.html",
@@ -483,9 +483,9 @@
     {
       "title": "3 Hostina v lese",
       "file": "knofliova_valka_026.html",
-      "words": 3046,
-      "chars": 18334,
-      "ideas": 185,
+      "words": 2673,
+      "chars": 16175,
+      "ideas": 140,
       "role": "chapter",
       "order": 22,
       "prev": "knofliova_valka_025.html",
@@ -543,9 +543,9 @@
     {
       "title": "6 Čest a Cinkalovy kalhoty",
       "file": "knofliova_valka_029.html",
-      "words": 1894,
-      "chars": 11213,
-      "ideas": 85,
+      "words": 1495,
+      "chars": 8681,
+      "ideas": 67,
       "role": "chapter",
       "order": 25,
       "prev": "knofliova_valka_028.html",
@@ -663,14 +663,14 @@
   ],
   "totals": {
     "all": {
-      "words": 57806,
-      "chars": 346040,
-      "ideas": 2411
+      "words": 47878,
+      "chars": 286218,
+      "ideas": 1964
     },
     "chapters": {
-      "words": 57653,
-      "chars": 345043,
-      "ideas": 2388
+      "words": 47725,
+      "chars": 285221,
+      "ideas": 1941
     }
   }
 }

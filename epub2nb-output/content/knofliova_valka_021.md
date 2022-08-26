@@ -9,6 +9,10 @@ contentType: prose
 
 — LA FONTAINE (Oba mezci)
 
+</section>
+
+<section>
+
 Když se na druhý den ráno pokladník usadil na své místo v zadní lavici, jal se uvádět do pořádku svou účetní knihu. Netřeba podotýkat, že předtím už stokrát spočítal, přepočítal a zkontroloval stav pokladu svěřeného jeho péči.
 
 Začal tedy zpaměti podrobně zapisovat do sloupce příjmů tyto položky

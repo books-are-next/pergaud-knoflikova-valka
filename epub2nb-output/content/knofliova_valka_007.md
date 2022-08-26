@@ -9,6 +9,10 @@ contentType: prose
 
 — NOVINY (léto 1911)
 
+</section>
+
+<section>
+
 Když se na vesnické zvonici rozezněl „druhý“, to znamená půl hodiny před posledním úderem zvonu ohlašujícím nedělní mši, dostavil se velký Janek v soukenné kazajce ušité z dědečkova kabátu, v nových drogetových kalhotách, ve šněrovacích botách, zašlých pod tlustým nánosem tuku, a v chlupaté čepici; Janek se dostavil, jak pravím, opřel se o zídku u obecního prádla a čekal tam na své voje, aby je zpravil o nejnovějších událostech a naprostém úspěchu podniku.
 
 Před vchodem do Baštovy hospody postávalo s dýmkami v zubech několik mužů, kteří se chystali zaskočit si „na slzičku“, než půjdou do kostela.
@@ -37,6 +41,10 @@ Viděl, jak Janek ukazuje Boubelovi obrázek, který mu dala Cin­kalova sestra�
 
 A pak si vzpomněl na svou dobrou přítelkyni Távku, které nedávno daroval perník koupený – za dva sou, prosím – na jarmarku ve Vercelu; hezké perníkové srdce, poseté červenými, modrými a žlutými cukrovými pupíčky a ozdobené nápisem, který mu připadal docela dobrý:
 
+<div class="centered">
+
+<div class="verse">
+
 </section>
 
 <section>
@@ -47,6 +55,10 @@ tak vemte si je — tady je!_
 </section>
 
 <section>
+
+</div>
+
+</div>
 
 Vyhledal ji očima v řadách děvčátek a viděl, že se na něho dívá. Vážnost jeho úřadu mu zapovídala úsměv, ale srdce mu poskočilo a s lehkým ruměncem se napřímil a sevřel pevně baňku se svěcenou vodou.
 
@@ -120,6 +132,10 @@ Když Janek vyslechl tuto zprávu, pokračoval:
 
 „A vám ve Velranech chcípají i vši na hlavě, jenomže se neví, jestli je to z hladu nebo z otrávení.“
 
+<div class="centered">
+
+<div class="verse">
+
 </section>
 
 <section>
@@ -133,9 +149,17 @@ táhnou z hor
 
 <section>
 
+</div>
+
+</div>
+
 „Ohé! Ohé! Ohé!“ zahlaholil za svým vůdcem sbor lovernských bojovníků, kteří se už nedokázali déle schovávat ani potlačovat své nadšení a hněv.
 
 Prcek od Brodu nezůstal dlužen odpověď:
+
+<div class="centered">
+
+<div class="verse">
 
 </section>
 
@@ -149,6 +173,10 @@ pak se z toho poserou._
 </section>
 
 <section>
+
+</div>
+
+</div>
 
 Nyní byla řada na Velranských, kteří uvítali zběsilým nadšením a dlouhým libozvučným Hej! Hej! slova svého generála.
 

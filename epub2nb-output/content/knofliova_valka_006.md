@@ -9,6 +9,10 @@ contentType: prose
 
 — MONTAIGNE (kniha druhá, kap. XII)
 
+</section>
+
+<section>
+
 „Počkej na mě, Bouřko!“ halekal Boubela, který nesl učebnice a sešity pod paží.
 
 „Tak sebou hoď, já nemám čas na plkání!“

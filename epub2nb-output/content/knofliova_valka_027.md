@@ -9,6 +9,10 @@ contentType: prose
 
 — CHARLES CALLET (Dávné příběhy)
 
+</section>
+
+<section>
+
 Po této pobídce vůdců vzal každý znovu do ruky své jablko, a zatímco Hejl procházel mezi řadami a s nedbalou elegancí rozdával doutníky z plamínků, začal Bouřka rozdělovat kostky cukru.
 
 „Panečku, to je ale svávola!“
