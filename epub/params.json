@@ -1,1 +1,794 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "title": "Knoflíková válka",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Louis Pergaud",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-05-04T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp",
+      "contentType": "prose"
+    },
+    "elements": {
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
+      "subtitle": "",
+      "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
+      "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
+      "h4": "MLP.uroven5.nadpis",
+      "hr": "MLP.hvezdicky\ne.bookhvezdickystred",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": ".+12.0\n.+12.12\n.+12.0.\n.+12.12.\ne.bookversebezpredsazeni.*pred.*\ne.bookodsazeniodstavce.*pred.*",
+      "brAfter": ".+0.12\n.+12.12\n.+0.12.\n.+12.12.\ne.bookversebezpredsazeni.*za.*\ne.bookodsazeniodstavce.*za.*",
+      "blockquote": "MLP.DENIK\nMLP.dopis.*\nMLP.citat\nMLP.prima.rec\ne.bookdopis\ne.bookprozatextkurzivadoprava",
+      "figure": "MLP.obrazky.*\nmlpobrazky",
+      "centered": ".*uprostred.*",
+      "verse": "MLP.verse.*",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_bez1radku_-I-\nMLP_dopis_podpis_-I-\nMLP_text_-I-\nMLP_text_-I-_-12-0-\nMLP_text_uprostred_-I-\nMLP_verse_-I-_-0-12-\nMLP_verse_-I-_-12-12-\nMLP_verse_-I-_-0-12-\nMLP_verse_-I-_-12-12-\nMLP_titulka_prekladatel",
+      "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "knofliova_valka_001.md",
+            "xhtml": "knofliova_valka_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "knofliova_valka_002.md",
+            "xhtml": "knofliova_valka_002.xhtml",
+            "id": 1,
+            "role": "promo",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "knofliova_valka_003.md",
+            "xhtml": "knofliova_valka_003.xhtml",
+            "id": 2,
+            "role": "about",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "knofliova_valka_004.md",
+            "xhtml": "knofliova_valka_004.xhtml",
+            "id": 3,
+            "role": "about",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "knofliova_valka_005.md",
+            "xhtml": "knofliova_valka_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "knofliova_valka_006.md",
+                "xhtml": "knofliova_valka_006.xhtml",
+                "id": 5,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "1 Vyhlášení války"
+              },
+              {
+                "filename": "knofliova_valka_007.md",
+                "xhtml": "knofliova_valka_007.xhtml",
+                "id": 6,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "2 Diplomatické napětí"
+              },
+              {
+                "filename": "knofliova_valka_008.md",
+                "xhtml": "knofliova_valka_008.xhtml",
+                "id": 7,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "3 Velký den"
+              },
+              {
+                "filename": "knofliova_valka_009.md",
+                "xhtml": "knofliova_valka_009.xhtml",
+                "id": 8,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "4 První rány osudu"
+              },
+              {
+                "filename": "knofliova_valka_010.md",
+                "xhtml": "knofliova_valka_010.xhtml",
+                "id": 9,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "5 Následky pohromy"
+              },
+              {
+                "filename": "knofliova_valka_011.md",
+                "xhtml": "knofliova_valka_011.xhtml",
+                "id": 10,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "6 Plán tažení"
+              },
+              {
+                "filename": "knofliova_valka_012.md",
+                "xhtml": "knofliova_valka_012.xhtml",
+                "id": 11,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "7 Nové bitvy"
+              },
+              {
+                "filename": "knofliova_valka_013.md",
+                "xhtml": "knofliova_valka_013.xhtml",
+                "id": 12,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "8 Spravedlivá odveta"
+              }
+            ],
+            "title": "Kniha I Válka"
+          },
+          {
+            "filename": "knofliova_valka_014.md",
+            "xhtml": "knofliova_valka_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "knofliova_valka_015.md",
+                "xhtml": "knofliova_valka_015.xhtml",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "1 Válečný poklad"
+              },
+              {
+                "filename": "knofliova_valka_016.md",
+                "xhtml": "knofliova_valka_016.xhtml",
+                "id": 15,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "2 Bez peněz bída převeliká"
+              },
+              {
+                "filename": "knofliova_valka_017.md",
+                "xhtml": "knofliova_valka_017.xhtml",
+                "id": 16,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "3 Cinkalovo účetnictví"
+              },
+              {
+                "filename": "knofliova_valka_018.md",
+                "xhtml": "knofliova_valka_018.xhtml",
+                "id": 17,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "4 Návrat válečných vítězství"
+              },
+              {
+                "filename": "knofliova_valka_019.md",
+                "xhtml": "knofliova_valka_019.xhtml",
+                "id": 18,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "5 U popravčího kůlu"
+              },
+              {
+                "filename": "knofliova_valka_020.md",
+                "xhtml": "knofliova_valka_020.xhtml",
+                "id": 19,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "6 Krutá hádanka"
+              },
+              {
+                "filename": "knofliova_valka_021.md",
+                "xhtml": "knofliova_valka_021.xhtml",
+                "id": 20,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "7 Trampoty jednoho pokladníka"
+              },
+              {
+                "filename": "knofliova_valka_022.md",
+                "xhtml": "knofliova_valka_022.xhtml",
+                "id": 21,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "8 Jiné možnosti"
+              }
+            ],
+            "title": "Kniha II Peníze"
+          },
+          {
+            "filename": "knofliova_valka_023.md",
+            "xhtml": "knofliova_valka_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [
+              {
+                "filename": "knofliova_valka_024.md",
+                "xhtml": "knofliova_valka_024.xhtml",
+                "id": 23,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "1 Budování boudy"
+              },
+              {
+                "filename": "knofliova_valka_025.md",
+                "xhtml": "knofliova_valka_025.xhtml",
+                "id": 24,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "2 Slavné dny lovernské"
+              },
+              {
+                "filename": "knofliova_valka_026.md",
+                "xhtml": "knofliova_valka_026.xhtml",
+                "id": 25,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "3 Hostina v lese"
+              },
+              {
+                "filename": "knofliova_valka_027.md",
+                "xhtml": "knofliova_valka_027.xhtml",
+                "id": 26,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "4 Příběhy z bohatýrských dob"
+              },
+              {
+                "filename": "knofliova_valka_028.md",
+                "xhtml": "knofliova_valka_028.xhtml",
+                "id": 27,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "5 Vnitřní rozbroje"
+              },
+              {
+                "filename": "knofliova_valka_029.md",
+                "xhtml": "knofliova_valka_029.xhtml",
+                "id": 28,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "6 Čest a Cinkalovy kalhoty"
+              },
+              {
+                "filename": "knofliova_valka_030.md",
+                "xhtml": "knofliova_valka_030.xhtml",
+                "id": 29,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "7 Vydrancovaný poklad"
+              },
+              {
+                "filename": "knofliova_valka_031.md",
+                "xhtml": "knofliova_valka_031.xhtml",
+                "id": 30,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "8 Potrestaný zrádce"
+              },
+              {
+                "filename": "knofliova_valka_032.md",
+                "xhtml": "knofliova_valka_032.xhtml",
+                "id": 31,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "9 Tragické návraty"
+              },
+              {
+                "filename": "knofliova_valka_033.md",
+                "xhtml": "knofliova_valka_033.xhtml",
+                "id": 32,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hungry": false,
+                "devoured": false,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "10 Poslední slova"
+              }
+            ],
+            "title": "Kniha III Bouda"
+          },
+          {
+            "filename": "knofliova_valka_034.md",
+            "xhtml": "knofliova_valka_034.xhtml",
+            "id": 33,
+            "role": "about",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Knoflíková válka",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Louis Pergaud",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-05-04T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_001.md",
+        "xhtml": "knofliova_valka_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_002.md",
+        "xhtml": "knofliova_valka_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_003.md",
+        "xhtml": "knofliova_valka_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_004.md",
+        "xhtml": "knofliova_valka_004.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA I  Válka",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_005.md",
+        "xhtml": "knofliova_valka_005.xhtml"
+      },
+      {
+        "titleSuggest": "1 Vyhlášení války",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_006.md",
+        "xhtml": "knofliova_valka_006.xhtml"
+      },
+      {
+        "titleSuggest": "2 Diplomatické napětí",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_007.md",
+        "xhtml": "knofliova_valka_007.xhtml"
+      },
+      {
+        "titleSuggest": "3 Velký den",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_008.md",
+        "xhtml": "knofliova_valka_008.xhtml"
+      },
+      {
+        "titleSuggest": "4 První rány osudu",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_009.md",
+        "xhtml": "knofliova_valka_009.xhtml"
+      },
+      {
+        "titleSuggest": "5 Následky pohromy",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_010.md",
+        "xhtml": "knofliova_valka_010.xhtml"
+      },
+      {
+        "titleSuggest": "6 Plán tažení",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_011.md",
+        "xhtml": "knofliova_valka_011.xhtml"
+      },
+      {
+        "titleSuggest": "7 Nové bitvy",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_012.md",
+        "xhtml": "knofliova_valka_012.xhtml"
+      },
+      {
+        "titleSuggest": "8 Spravedlivá odveta",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_013.md",
+        "xhtml": "knofliova_valka_013.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA II  Peníze",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_014.md",
+        "xhtml": "knofliova_valka_014.xhtml"
+      },
+      {
+        "titleSuggest": "1 Válečný poklad",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_015.md",
+        "xhtml": "knofliova_valka_015.xhtml"
+      },
+      {
+        "titleSuggest": "2 Bez peněz bída převeliká",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_016.md",
+        "xhtml": "knofliova_valka_016.xhtml"
+      },
+      {
+        "titleSuggest": "3 Cinkalovo účetnictví",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_017.md",
+        "xhtml": "knofliova_valka_017.xhtml"
+      },
+      {
+        "titleSuggest": "4 Návrat válečných vítězství",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_018.md",
+        "xhtml": "knofliova_valka_018.xhtml"
+      },
+      {
+        "titleSuggest": "5 U popravčího kůlu",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_019.md",
+        "xhtml": "knofliova_valka_019.xhtml"
+      },
+      {
+        "titleSuggest": "6 Krutá hádanka",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_020.md",
+        "xhtml": "knofliova_valka_020.xhtml"
+      },
+      {
+        "titleSuggest": "7 Trampoty jednoho pokladníka",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_021.md",
+        "xhtml": "knofliova_valka_021.xhtml"
+      },
+      {
+        "titleSuggest": "8 Jiné možnosti",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_022.md",
+        "xhtml": "knofliova_valka_022.xhtml"
+      },
+      {
+        "titleSuggest": "KNIHA III  Bouda",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_023.md",
+        "xhtml": "knofliova_valka_023.xhtml"
+      },
+      {
+        "titleSuggest": "1 Budování boudy",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_024.md",
+        "xhtml": "knofliova_valka_024.xhtml"
+      },
+      {
+        "titleSuggest": "2 Slavné dny lovernské",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_025.md",
+        "xhtml": "knofliova_valka_025.xhtml"
+      },
+      {
+        "titleSuggest": "3 Hostina v lese",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_026.md",
+        "xhtml": "knofliova_valka_026.xhtml"
+      },
+      {
+        "titleSuggest": "4 Příběhy z bohatýrských dob",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_027.md",
+        "xhtml": "knofliova_valka_027.xhtml"
+      },
+      {
+        "titleSuggest": "5 Vnitřní rozbroje",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_028.md",
+        "xhtml": "knofliova_valka_028.xhtml"
+      },
+      {
+        "titleSuggest": "6 Čest a Cinkalovy kalhoty",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_029.md",
+        "xhtml": "knofliova_valka_029.xhtml"
+      },
+      {
+        "titleSuggest": "7 Vydrancovaný poklad",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_030.md",
+        "xhtml": "knofliova_valka_030.xhtml"
+      },
+      {
+        "titleSuggest": "8 Potrestaný zrádce",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_031.md",
+        "xhtml": "knofliova_valka_031.xhtml"
+      },
+      {
+        "titleSuggest": "9 Tragické návraty",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_032.md",
+        "xhtml": "knofliova_valka_032.xhtml"
+      },
+      {
+        "titleSuggest": "10 Poslední slova",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_033.md",
+        "xhtml": "knofliova_valka_033.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "knofliova_valka_034.md",
+        "xhtml": "knofliova_valka_034.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_knoflikova_valka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "HorizontalRule-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_citat",
+      "MLP_citat_autor",
+      "MLP_dopis_bez1radku_-I-",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_pozn_pod_carou",
+      "MLP_seznam_dalsi_odstavce",
+      "MLP_text",
+      "MLP_text_-0-12-",
+      "MLP_text_-12-0-",
+      "MLP_text_-I-",
+      "MLP_text_-I-_-12-0-",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_text_uprostred",
+      "MLP_text_uprostred_-I-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_tiraz_podnazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_titulka_podnazev",
+      "MLP_titulka_prekladatel",
+      "MLP_uroven1_cast",
+      "MLP_uroven2_kapitola",
+      "MLP_verse_-I-_-0-12-",
+      "MLP_verse_-I-_-12-12-",
+      "MLP_znak_kurziva_11b",
+      "ParaOverride-1",
+      "ParaOverride-2",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "ParaOverride-5",
+      "ParaOverride-6",
+      "ParaOverride-8",
+      "ParaOverride-9",
+      "Z-kladn--textový-r-meček",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenColorInherit",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "pergaud-knoflikova-valka"
+    },
+    "generatedAt": 1661317144836
+  }
+}
