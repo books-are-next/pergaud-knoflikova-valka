@@ -12,6 +12,10 @@ contentType: prose
 
 — BRANTÔME (Velcí vojevůdcové francouzští)
 
+</section>
+
+<section>
+
 „Hej – rup! Hej – rup!“ skandovalo deset Jankových tesařských nádeníků, když zvedali a dávali na místo první těžkou kostru pevnostní střechy. A v rytmu, určeném tímto vzájemným pobízením, napínalo dvacet paží zároveň své silné svaly, zvedalo trámoví a přenášelo je nad lomem, aby mohlo položit nosné trámky přesně do jamek vyhloubených Cinkalem.
 
 „Pomalu! Pomalu!“ křičel Janek. „Všichni najednou! Abysme nic nepolámali! Pozor! Ještě kousek dopředu, Berto! Tak, tak je to dobře! Ne! Cinkale, tu první díru trochu rozšiř, je moc vzadu! Vem si na to sekeru! No neboj se!

@@ -9,6 +9,10 @@ contentType: prose
 
 — HESLO DÁVNÝCH RYTÍŘŮ
 
+</section>
+
+<section>
+
 Toho večera se strhla na Hůrce nová bitva. Poklad plný knoflíků všech druhů a velikostí, různých přezek, rozličných tkanic a rozmanitých špendlíků a obsahující i jeden pár nádherných šlí (a to, panečku, Prckových!) naplňoval všechny důvěrou, vydražďoval jejich energii a probouzel jejich odvahu.
 
 Byl to den soukromé iniciativy, dá-li se to tak říct; den boje muže proti muži, což je určitě nebezpečnější než všeobecná řež.
@@ -133,6 +137,10 @@ Z hloubi mlází k nim stoupal křik, smích a dupot: ještě chvíli a už 
 
 A Prcek zanotoval:
 
+<div class="centered">
+
+<div class="verse">
+
 </section>
 
 <section>
@@ -144,15 +152,31 @@ naděje má…_
 
 <section>
 
+</div>
+
+</div>
+
 Janek a Hejl, oba schovaní v jedné křovině kousek pod příkopem, neviděli sice skoro nic, ale neuniklo jim ani slovo.
 
 Všichni jejich vojáci, svírajíce pevně své obušky, byli němí jako ty pařezy, na kterých dřepěli. Generál zatínal zuby, díval se a poslouchal. Když se hlasy Velraňáků připojily ke hlasu jejich vůdce:
+
+<div class="centered">
+
+<div class="verse">
 
 </section>
 
 <section>
 
 _Já křesťan jsem, toť má je pýcha…,_
+
+</section>
+
+<section>
+
+</div>
+
+</div>
 
 </section>
 
@@ -184,11 +208,23 @@ Marie Cinkalová brzo přišila na bratrovy kalhoty chybějící knof­líky a 
 
 A tak se toho večera lovernská armáda po přestálých úzkostech vracela do vsi hrdě, za mužných tónů hudby Melhubovy
 
+<div class="centered">
+
+<div class="verse">
+
 </section>
 
 <section>
 
 _Vítězství vede nás…_
+
+</section>
+
+<section>
+
+</div>
+
+</div>
 
 </section>
 

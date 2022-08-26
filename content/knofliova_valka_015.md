@@ -9,6 +9,10 @@ contentType: prose
 
 — BISMARCK
 
+</section>
+
+<section>
+
 Na druhý den se přátelé cestou do školy dozvídali kousek po kousku příběh starého Zefirina. Vesnice plná pověstí vesele komentovala různé fáze tohoto bakchického putování: jen hlavní hrdina, chrápající těžkým spánkem opilce, nevěděl ještě nic o škodách způsobených v jeho domácnosti a o tom, jak jeho včerejší chování pod­kopalo jeho reputaci.
 
 Na školním dvoře stála skupina těch velkých s Jankem uprostřed a smáli se, až se za břicho popadali; každý vykládal velice nahlas, aby to učitel slyšel, všechny ochechulózní pověsti, které kolovaly po ulicích, a všichni velice zdůrazňovali právě ty rujné a kluzké detaily: hrnec a postel. Ti, kteří neříkali nic, smáli se na celé kolo a jejich oči hrdě zářily vítězným ohněm, protože měli za to, že všichni více či méně spolupůsobili při této spravedlivé odplatě.

@@ -9,11 +9,19 @@ contentType: prose
 
 — NEDĚLNÍ NEŠPORY
 
+</section>
+
+<section>
+
 Starý Beduin zahlédl Hejla v téže chvíli, kdy Hejl uviděl jeho, ale poznal-li chlapec dědu na první pohled, naopak tomu naštěstí nebylo.
 
 Jenomže polní hlídač vycítil svým čichem starého vysloužilce, že ten výrostek, kterého má před sebou, má v téhle nové záležitosti prsty, nebo že mu aspoň může dát nějaké informace či vysvětlení, a proto na něho zamával, aby počkal. A namířil rovnou k němu.
 
 To vyhovovalo Boubelovi, který se velice strachoval, aby ten starý rabiát nezamířil k jeho úkrytu a neobjevil šatnu lovernských druhů. Aby mu v tom zabránil, byl Boubela odhodlán použít všech prostředků: nejlepší byla ještě urážka na krátkou vzdálenost, pokud měl ovšem člověk po ruce – jako zde – stromy a keře, za které se mohl schovat, aby ho Beduin nepoznal. Tímto způsobem a při čilé práci nohou mohl člověk dědu odvést daleko od bojiště:
+
+<div class="centered">
+
+<div class="verse">
 
 </section>
 
@@ -26,6 +34,10 @@ koroptev vidí, jež jen jedno nové pírko má…_
 </section>
 
 <section>
+
+</div>
+
+</div>
 
 Boubela se té bajce naučil; tato ptačí lest se mu zalíbila, a protože nebyl o nic hloupější nežli koroptev, jejíž čiřikání napodoboval k nerozeznání, dokázal by také odvést Zefirina daleko odtud a pak se ho zbavit.
 

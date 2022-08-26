@@ -12,6 +12,10 @@ contentType: prose
 — MME DE SÉVIGNÉ v dopisu Mme de Grignan  
 (15. června 1680)
 
+</section>
+
+<section>
+
 Jakmile Cinkal dorazil na školní dvůr, vybral si napřed od všech, kteří měli sešity, po jednom pijáku, aby mohl ihned zhotovit velkou pokladní knihu, do které se bude zapisovat příjem a vydání lovernské armády.
 
 Nato obdržel od poplatníků předvídaných pětatřicet sou, od těch, co platili v naturáliích, převzal sedm knoflíků různých velikostí a tvarů a tři kousky provázku a hluboce se zamyslel.
@@ -73,6 +77,10 @@ _Zbývá jako záloha pro případ maléru… 2 sou_
 
 A Hejl, jehož velký bratr byl v pevnostním dělostřelectvu a který zrovna hltal každé jeho slovo, zanotoval šibalsky a polohlasně tuto písničku, kterou zaslechl jednou, když bratr voják přijel na dovolenou:
 
+<div class="centered">
+
+<div class="verse">
+
 </section>
 
 <section>
@@ -85,6 +93,10 @@ jako pěšák na cestě do bordelu…_
 </section>
 
 <section>
+
+</div>
+
+</div>
 
 Celá banda, horující pro všechno vojenské a nadšená pro každou novotu, se ihned chtěla naučit popěvku, který Hejl musel několikrát za sebou zopakovat – a pak se vrátili k obchodním záležitostem. Při dalším zkoumání rozpočtu došli rovněž k názoru, že čtyři sou za přezky nebo háčky na kalhoty jsou přehnaně mnoho, na každé gatě stačila jedna přezka a mnoho těch menších ani nemělo kalhoty s patkou na stahování; když se tedy položka sníží o dva sou, bude to pořád ještě dost, a vybudou tak celkem čtyři sou, kterých se použije tímto způsobem:
 

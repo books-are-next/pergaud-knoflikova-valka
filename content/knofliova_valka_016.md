@@ -11,6 +11,10 @@ contentType: prose
 
 — RABELAIS (kniha II, kap. XVI)
 
+</section>
+
+<section>
+
 Večer to pořádně štípalo do tváří. Byl jasný podvečer v novoluní. Tenoučký bledě stříbrný srpeček, ještě průzračný v posledních slunečních paprscích, předpovídal jednu z těch syrových a mrazivých nocí, které vám shodí poslední listy, drkotající se na zpustošených větvích jako nakřáplé rolničky větrných ořů.
 
 Zimomřivý Boubela si stáhl přes uši svůj modrý baret! Cinkal si ohrnul dolů náušníky na čepici a ostatní se také všelijak snažili bojovat proti bodavému větru; jen prostovlasý Janek, ještě opálený letním sluncem, v rozepjaté haleně, opovrhoval tou troškou zimy, která podle jeho tvrzení nestála za řeč.

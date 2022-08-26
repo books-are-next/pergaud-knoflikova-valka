@@ -9,6 +9,10 @@ contentType: prose
 
 — J.-M. DE HEREDIA (Trofeje)
 
+</section>
+
+<section>
+
 Chlapci na Pajdu nezanevřeli ani kvůli jeho hádce, ani kvůli jeho pokusům o vydírání a udavačským snahám u starého Simona.
 
 Stačilo jim, že si to odskákal a byl potrestán. S ním si vždycky budou umět poradit, a tak mu (až na několik nenapravitelných jako Souška a Cinkal) celá armáda i s Hejlem prominula onen sice politováníhodný, ale koneckonců dost běžný výstup, který v kritickém okamžiku málem zasel do lovernského tábora símě neshody a nesváru.

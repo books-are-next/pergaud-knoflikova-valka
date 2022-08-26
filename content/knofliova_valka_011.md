@@ -10,6 +10,10 @@ contentType: prose
 
 — RACINE (Britannicus, dějství II, výstup 2)
 
+</section>
+
+<section>
+
 Když se Janek na druhý den probudil z olověného spánku, těžkého jako spánek po opici, pomalu se protáhl a pocítil bolest v zádech a prázdno v žaludku.
 
 Vzpomínka na to, co se stalo, mu znova přišla na mysl jako nával horka, který vám stoupne do hlavy, a vehnala mu do tváří ruměnec.

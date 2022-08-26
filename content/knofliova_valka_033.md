@@ -9,6 +9,10 @@ contentType: prose
 
 — VICTOR HUGO (Tresty)
 
+</section>
+
+<section>
+
 Pod nátlakem všemohoucích pěstí a pod vahou argumentů tak neodolatelných, jako jsou dobře mířené kopance, byl skoro všem lovernským bojovníkům vyrván slib, že už se nebudou prát s Velraňáky, a přísaha, že napříště už nebudou krást knoflíky ani hřebíky, ani prkna, ani vajíčka, aniž poškozovat domácnost zpronevěřováním peněz na nákupy.
 
 Výprasku prozatím unikli jen Bouřkové a Gambetta, bydlící daleko od obce. Janek, tvrdohlavější než půltuctu mezků, nechtěl přiznat nic ani pod pohrůžkou, ani pod klackem. Nic neslíbil, nic neodpřisáhl a zůstal němý jako ryba. Během ukrutného bití, které dostal, nevydal ze sebe žádný artikulovaný lidský zvuk. Naproti tomu se hojně odškodnil řvaním, vytím, řičením a vřeštěním, které by mohly vzbudit závist všech existujících divokých zvířat.

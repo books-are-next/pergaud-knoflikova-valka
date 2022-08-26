@@ -10,6 +10,10 @@ contentType: prose
 
 — CH. BAUDELAIRE (Květy zla)
 
+</section>
+
+<section>
+
 Pajda, vyproštěný z pout, se zadkem rozbitým do krve, s tváří staženou bolestí a s očima hrůzou vytřeštěnýma dostal přímo pod nos nelibě páchnoucí balík toho, co byly kdysi jeho šaty. Celá armáda s vůdci v čele ho pak ponechala jeho osudu a důstojně opustila boudu. Šli o kus dál, na jisté opuštěné a skryté místo, aby tam porokovali, co třeba udělat v tak naléhavé a trapné situaci.
 
 Nikdo z nich si nelámal hlavu nad tím, co se stane s odhaleným, ztrestaným, zřezaným, znectěným a smrdutým zrádcem. Byla to jeho věc: měl, co si zasloužil, a to se ještě říká kdoví jestli. Vzteklé skřeky a škytání a vzlyky trpitele doléhaly k jejich uším, ale oni jich vůbec nedbali.

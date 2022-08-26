@@ -9,6 +9,10 @@ contentType: prose
 
 — J. A. RIMBAUD (Opilý koráb)
 
+</section>
+
+<section>
+
 Ačkoliv Prcek od Brodu byl malé postavy a vypadal slaboučký (což mu vyneslo jeho přezdívku), nepatřil k těm, kteří svou kůži dají lacino: Janek a druzí dva se o tom záhy přesvědčili na vlastní kůži.
 
 Zatímco se generál obrátil a vyzýval své vojáky k pronásledování, zachoval se zajatec jako liška v pasti, když využije chvilkového oddechu, aby se předem pomstila za muka, která ji čekají: sevřel totiž mezi sanicemi palec svého mučitele a kousl ho tak důkladně, až mu vytryskla krev. Hejl a Bouřka každý dostali pořádný kopanec do žeber a tak poznali, zač je toho loket, když sebemíň uvolní sevření nohy, kterou drželi mezi paží a bokem.

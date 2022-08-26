@@ -13,6 +13,10 @@ contentType: prose
 
 — RABELAIS (kniha II, kap. XIX)
 
+</section>
+
+<section>
+
 Janek přišel v pondělí ráno v osm hodin do školy v pozáplatovaných kalhotách a v haleně se dvěma různobarevnými rukávy, což mu propůjčovalo vzhled poněkud karnevalový.
 
 Když odcházel, upozornila ho přísně matka, aby své šaty obzvlášť opatroval a že jestli na nich večer objeví sebemenší skvrnu od bláta nebo dírku, uvidí znovu, zač je toho loket. Halena mu byla také poněkud těsná v průramkách a omezovala ho trochu v pohybu, ale netrvalo to dlouho.

@@ -9,6 +9,10 @@ contentType: prose
 
 — RACINE (Britannicus, dějství II, výstup 3)
 
+</section>
+
+<section>
+
 „Ne a ne a ne! Já už ten poklad nechci! Já už ho mám plný zuby: nebít se, opisovat nějaký volovinky o Mirabeauovi a ještě dostávat nářez! Já se na ty knoflíky vybodnu! Ať si je veme, kdo chce! Ať si to vypije zas někdo jinej! Táta řek, že jestli mi v kapse najde jedinej knoflík, tak prej mě seřeže tak, že jsem to ještě nezažil.“
 
 Tak promlouval na druhý den ráno pokladník Cinkal, když odevzdával generálovi hezký boubelatý pytlík, který zhotovila jeho sestra.

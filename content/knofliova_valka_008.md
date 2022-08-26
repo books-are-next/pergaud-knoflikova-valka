@@ -10,6 +10,10 @@ contentType: prose
 — JISTÝ STARÝ GALSKÝ VOJEVŮDCE  
 k Římanům
 
+</section>
+
+<section>
+
 V pondělí ráno to ve škole dopadalo špatně, ještě hůř než v sobotu.
 
 Hejl vyvolaný starým Simonem, aby v hodině občanské výchovy zopakoval, co mu bylo minule vtlučeno do hlavy o „občanovi“, přivolal na sebe potupná a nikterak příjemná slova.
@@ -196,6 +200,10 @@ Protože se na okraji lesa neukazovalo nic nového a bylo již jasné, že tent
 
 A tam se seřadili do šestistupů, vedle nich Janek, který vytasil svůj klacek, a vepředu Hejl, který si na svou zbraň uvázal zakrvácený kapesník jako zástavu. Na vůdcův povel vyrazili k Lovernu, držíce se pod paží, vydupávajíce podpatky krok a zpívajíce z plných plic:
 
+<div class="centered">
+
+<div class="verse">
+
 </section>
 
 <section>
@@ -209,6 +217,10 @@ k boji zve pól-ní-cé hlas!_
 </section>
 
 <section>
+
+</div>
+
+</div>
 
 * * *
 
