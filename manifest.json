@@ -1,0 +1,676 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Knoflíková válka",
+  "author": "Louis Pergaud",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "pergaud-knoflikova-valka-d94d33f",
+  "revision": "d94d33f",
+  "readingOrder": [
+    "promo.html",
+    "knofliova_valka_005.html",
+    "knofliova_valka_006.html",
+    "knofliova_valka_007.html",
+    "knofliova_valka_008.html",
+    "knofliova_valka_009.html",
+    "knofliova_valka_010.html",
+    "knofliova_valka_011.html",
+    "knofliova_valka_012.html",
+    "knofliova_valka_013.html",
+    "knofliova_valka_014.html",
+    "knofliova_valka_015.html",
+    "knofliova_valka_016.html",
+    "knofliova_valka_017.html",
+    "knofliova_valka_018.html",
+    "knofliova_valka_019.html",
+    "knofliova_valka_020.html",
+    "knofliova_valka_021.html",
+    "knofliova_valka_022.html",
+    "knofliova_valka_023.html",
+    "knofliova_valka_024.html",
+    "knofliova_valka_025.html",
+    "knofliova_valka_026.html",
+    "knofliova_valka_027.html",
+    "knofliova_valka_028.html",
+    "knofliova_valka_029.html",
+    "knofliova_valka_030.html",
+    "knofliova_valka_031.html",
+    "knofliova_valka_032.html",
+    "knofliova_valka_033.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Fri Aug 26 2022 15:20:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661527241562
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "knofliova_valka_005.html",
+      "toc": []
+    },
+    {
+      "title": "KNIHA I  Válka",
+      "file": "knofliova_valka_005.html",
+      "words": 3,
+      "chars": 14,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "knofliova_valka_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA I  Válka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 Vyhlášení války",
+      "file": "knofliova_valka_006.html",
+      "words": 2017,
+      "chars": 12557,
+      "ideas": 77,
+      "role": "chapter",
+      "order": 2,
+      "prev": "knofliova_valka_005.html",
+      "next": "knofliova_valka_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1 Vyhlášení války",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 Diplomatické napětí",
+      "file": "knofliova_valka_007.html",
+      "words": 1849,
+      "chars": 11320,
+      "ideas": 86,
+      "role": "chapter",
+      "order": 3,
+      "prev": "knofliova_valka_006.html",
+      "next": "knofliova_valka_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2 Diplomatické napětí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 Velký den",
+      "file": "knofliova_valka_008.html",
+      "words": 2147,
+      "chars": 13311,
+      "ideas": 103,
+      "role": "chapter",
+      "order": 4,
+      "prev": "knofliova_valka_007.html",
+      "next": "knofliova_valka_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3 Velký den",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 První rány osudu",
+      "file": "knofliova_valka_009.html",
+      "words": 2145,
+      "chars": 12890,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 5,
+      "prev": "knofliova_valka_008.html",
+      "next": "knofliova_valka_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4 První rány osudu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5 Následky pohromy",
+      "file": "knofliova_valka_010.html",
+      "words": 1795,
+      "chars": 11111,
+      "ideas": 69,
+      "role": "chapter",
+      "order": 6,
+      "prev": "knofliova_valka_009.html",
+      "next": "knofliova_valka_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5 Následky pohromy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6 Plán tažení",
+      "file": "knofliova_valka_011.html",
+      "words": 2132,
+      "chars": 12585,
+      "ideas": 72,
+      "role": "chapter",
+      "order": 7,
+      "prev": "knofliova_valka_010.html",
+      "next": "knofliova_valka_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6 Plán tažení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7 Nové bitvy",
+      "file": "knofliova_valka_012.html",
+      "words": 2925,
+      "chars": 17944,
+      "ideas": 106,
+      "role": "chapter",
+      "order": 8,
+      "prev": "knofliova_valka_011.html",
+      "next": "knofliova_valka_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7 Nové bitvy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8 Spravedlivá odveta",
+      "file": "knofliova_valka_013.html",
+      "words": 3602,
+      "chars": 21757,
+      "ideas": 132,
+      "role": "chapter",
+      "order": 9,
+      "prev": "knofliova_valka_012.html",
+      "next": "knofliova_valka_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8 Spravedlivá odveta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KNIHA II  Peníze",
+      "file": "knofliova_valka_014.html",
+      "words": 3,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 10,
+      "prev": "knofliova_valka_013.html",
+      "next": "knofliova_valka_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA II  Peníze",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 Válečný poklad",
+      "file": "knofliova_valka_015.html",
+      "words": 2062,
+      "chars": 12072,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 11,
+      "prev": "knofliova_valka_014.html",
+      "next": "knofliova_valka_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1 Válečný poklad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 Bez peněz bída převeliká",
+      "file": "knofliova_valka_016.html",
+      "words": 2041,
+      "chars": 11553,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 12,
+      "prev": "knofliova_valka_015.html",
+      "next": "knofliova_valka_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2 Bez peněz bída převeliká",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 Cinkalovo účetnictví",
+      "file": "knofliova_valka_017.html",
+      "words": 1963,
+      "chars": 11747,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 13,
+      "prev": "knofliova_valka_016.html",
+      "next": "knofliova_valka_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3 Cinkalovo účetnictví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 Návrat válečných vítězství",
+      "file": "knofliova_valka_018.html",
+      "words": 1891,
+      "chars": 11382,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 14,
+      "prev": "knofliova_valka_017.html",
+      "next": "knofliova_valka_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4 Návrat válečných vítězství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5 U popravčího kůlu",
+      "file": "knofliova_valka_019.html",
+      "words": 1505,
+      "chars": 9042,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 15,
+      "prev": "knofliova_valka_018.html",
+      "next": "knofliova_valka_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5 U popravčího kůlu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6 Krutá hádanka",
+      "file": "knofliova_valka_020.html",
+      "words": 2248,
+      "chars": 13438,
+      "ideas": 114,
+      "role": "chapter",
+      "order": 16,
+      "prev": "knofliova_valka_019.html",
+      "next": "knofliova_valka_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6 Krutá hádanka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7 Trampoty jednoho pokladníka",
+      "file": "knofliova_valka_021.html",
+      "words": 2790,
+      "chars": 16722,
+      "ideas": 157,
+      "role": "chapter",
+      "order": 17,
+      "prev": "knofliova_valka_020.html",
+      "next": "knofliova_valka_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7 Trampoty jednoho pokladníka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8 Jiné možnosti",
+      "file": "knofliova_valka_022.html",
+      "words": 2041,
+      "chars": 11820,
+      "ideas": 70,
+      "role": "chapter",
+      "order": 18,
+      "prev": "knofliova_valka_021.html",
+      "next": "knofliova_valka_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8 Jiné možnosti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "KNIHA III  Bouda",
+      "file": "knofliova_valka_023.html",
+      "words": 3,
+      "chars": 16,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 19,
+      "prev": "knofliova_valka_022.html",
+      "next": "knofliova_valka_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "KNIHA III  Bouda",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 Budování boudy",
+      "file": "knofliova_valka_024.html",
+      "words": 2438,
+      "chars": 14711,
+      "ideas": 90,
+      "role": "chapter",
+      "order": 20,
+      "prev": "knofliova_valka_023.html",
+      "next": "knofliova_valka_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1 Budování boudy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 Slavné dny lovernské",
+      "file": "knofliova_valka_025.html",
+      "words": 2337,
+      "chars": 14605,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 21,
+      "prev": "knofliova_valka_024.html",
+      "next": "knofliova_valka_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2 Slavné dny lovernské",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 Hostina v lese",
+      "file": "knofliova_valka_026.html",
+      "words": 3046,
+      "chars": 18334,
+      "ideas": 185,
+      "role": "chapter",
+      "order": 22,
+      "prev": "knofliova_valka_025.html",
+      "next": "knofliova_valka_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3 Hostina v lese",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 Příběhy z bohatýrských dob",
+      "file": "knofliova_valka_027.html",
+      "words": 2839,
+      "chars": 15885,
+      "ideas": 86,
+      "role": "chapter",
+      "order": 23,
+      "prev": "knofliova_valka_026.html",
+      "next": "knofliova_valka_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4 Příběhy z bohatýrských dob",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5 Vnitřní rozbroje",
+      "file": "knofliova_valka_028.html",
+      "words": 1813,
+      "chars": 10935,
+      "ideas": 91,
+      "role": "chapter",
+      "order": 24,
+      "prev": "knofliova_valka_027.html",
+      "next": "knofliova_valka_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5 Vnitřní rozbroje",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6 Čest a Cinkalovy kalhoty",
+      "file": "knofliova_valka_029.html",
+      "words": 1894,
+      "chars": 11213,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 25,
+      "prev": "knofliova_valka_028.html",
+      "next": "knofliova_valka_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6 Čest a Cinkalovy kalhoty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7 Vydrancovaný poklad",
+      "file": "knofliova_valka_030.html",
+      "words": 2306,
+      "chars": 13415,
+      "ideas": 84,
+      "role": "chapter",
+      "order": 26,
+      "prev": "knofliova_valka_029.html",
+      "next": "knofliova_valka_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7 Vydrancovaný poklad",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8 Potrestaný zrádce",
+      "file": "knofliova_valka_031.html",
+      "words": 1871,
+      "chars": 11021,
+      "ideas": 108,
+      "role": "chapter",
+      "order": 27,
+      "prev": "knofliova_valka_030.html",
+      "next": "knofliova_valka_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8 Potrestaný zrádce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9 Tragické návraty",
+      "file": "knofliova_valka_032.html",
+      "words": 1797,
+      "chars": 10875,
+      "ideas": 77,
+      "role": "chapter",
+      "order": 28,
+      "prev": "knofliova_valka_031.html",
+      "next": "knofliova_valka_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9 Tragické návraty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10 Poslední slova",
+      "file": "knofliova_valka_033.html",
+      "words": 2150,
+      "chars": 12752,
+      "ideas": 97,
+      "role": "chapter",
+      "order": 29,
+      "prev": "knofliova_valka_032.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10 Poslední slova",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 147,
+      "chars": 957,
+      "ideas": 19,
+      "role": "about",
+      "order": null,
+      "prev": "knofliova_valka_033.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 57806,
+      "chars": 346040,
+      "ideas": 2411
+    },
+    "chapters": {
+      "words": 57653,
+      "chars": 345043,
+      "ideas": 2388
+    }
+  }
+}
