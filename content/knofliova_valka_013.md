@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-> Donec ponam inimicos tuos, scabellum pedum tuorum.[2](./resources/undefined)
+> Donec ponam inimicos tuos, scabellum pedum tuorum.[^2]
 
 — NEDĚLNÍ NEŠPORY
 
@@ -285,6 +285,6 @@ Zanedlouho potom se vyprávělo po vesnici – a Janek s přáteli se tomu sm
 
 * * *
 
-[2](./resources/undefined) Dokud nepoložím nepřátele tvé za podnoží tvých nohou.
+[^2]: Dokud nepoložím nepřátele tvé za podnoží tvých nohou.
 
 </section>
