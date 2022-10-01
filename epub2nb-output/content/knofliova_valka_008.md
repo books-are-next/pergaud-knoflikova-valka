@@ -5,7 +5,7 @@ contentType: prose
 
 <section>
 
-> Vae victis![1](./resources/undefined)
+> Vae victis![^1]
 
 — JISTÝ STARÝ GALSKÝ VOJEVŮDCE  
 k Římanům
@@ -224,6 +224,6 @@ k boji zve pól-ní-cé hlas!_
 
 * * *
 
-[1](./resources/undefined) Běda poraženým!
+[^1]: Běda poraženým!
 
 </section>
