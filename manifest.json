@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "pergaud-knoflikova-valka-161c04c",
-  "revision": "161c04c",
+  "identifier": "pergaud-knoflikova-valka-3b368dc",
+  "revision": "3b368dc",
   "readingOrder": [
     "promo.html",
     "knofliova_valka_005.html",
@@ -44,8 +44,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:50:03 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150603053
+    "date": "Mon Oct 10 2022 15:42:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416564074
   },
   "documents": [
     {
@@ -644,7 +644,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 144,
-      "chars": 957,
+      "chars": 958,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -664,7 +664,7 @@
   "totals": {
     "all": {
       "words": 47875,
-      "chars": 286220,
+      "chars": 286221,
       "ideas": 1961
     },
     "chapters": {
